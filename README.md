@@ -1,4 +1,4 @@
-# Movie Databbase - React Native with OMDb API
+# Movie Database - React Native with OMDb API
 
 ![Github](https://github.com/iexcalibur/movie-database-native/assets/48850851/b378c811-b709-4c04-b1f3-b4d0b93b149f)
 
